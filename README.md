@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Mari! 👋
 
-- 🔭 Estou trabalhando atualmente com Analista de Sistemas
+- 🔭 Estou trabalhando atualmente como Analista de Sistemas
 - 📩 Contate-me no email: marigmmarques@gmail.com
 - ⚡ Sou multifuncional, já trabalhei em algumas áreas com programação, banco de dados e suporte.
 
