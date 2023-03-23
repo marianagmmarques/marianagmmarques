@@ -6,12 +6,7 @@
 
                         "É fazendo que se aprende a fazer aquilo que se deve aprender a fazer."
                                                         Aristóteles 
-                                                        
-<div>
-<a href="https://github.com/marianagmmarques">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianagmmarques&layout=compact&langs_count=7&theme=radical"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marianagmmarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+                                                       
 <br>  
 - 🌱 Estou apredendo programação
 <br> 
