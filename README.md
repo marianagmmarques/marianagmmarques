@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Mari! 👋
 
-- 🔭 Estou trabalhando atualmente como Analista de Sistemas
+- 🔭 Estou estudando atualmente
 - 📩 Contate-me no email: marigmmarques@gmail.com
 - ⚡ Sou multifuncional, já trabalhei em algumas áreas com programação, banco de dados e suporte.
 
@@ -8,7 +8,7 @@
                                                         Aristóteles 
                                                        
 <br>  
-- 🌱 Estou apredendo programação
+- 🌱 Estou apredendo programação e IA
 <br> 
 <div style="display: inline_block"><br>
 <img align="center" heignht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
