@@ -20,7 +20,6 @@
 <img align="center" heignht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 <img align="center" heignht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" heignht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" heignht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg](https://cdn.jsdelivr.net/npm/@agentscope-ai/icons@1.0.47/index.min.js](https://img.icons8.com/?size=100&id=61864&format=png&color=000000"/>
 <img align="right" width="150" src="https://cdn.picrew.me/shareImg/org/202302/318008_WKTBBmHM.png"/>
 </div>
 
